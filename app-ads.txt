@@ -1,0 +1,4 @@
+# app-ads.txt for magicgamesstudio.com
+# Replace pub-0000000000000000 with your AdMob publisher ID
+# (AdMob > Settings > Account information > Publisher ID), then remove the leading "#" below.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
